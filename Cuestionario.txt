@@ -1,1 +1,11 @@
 
+1:En tus palabras, ¿Qué es internet?
+El internet es el conjunto de redes interconectadas, por las cuales circula información,por las cuales circula información, el internet es de dominio público y nadie es dueño de el 
+2:Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+El internet se transmite por medio de cables de cobre es decir electricidad, por la luz , esto por medio de cables de fibra óptica en los cuales rebora la luz hasta su destino sin pérdida alguna de velocidad o datos y la última es por medio de ondas de radio , las cuales tienen un alcance muy limitado , sin embargo no necesitan cables.
+3:¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+El internet está organizado por medio de direcciones , estas direcciones son las que nos permiten identificar un dispositivo o una página web, así mismo estas direcciones nos ayudan para poder comunicarnos.
+La IP es la identificación individual de cada dispositivo, es como el nombre de una persona , con la diferencia de que este es único e irrepetible , esto nos permite poder comunicarnos entres nosotros, también brinda información para poder acceder a páginas web
+La DNS el al dirección de las páginas web y por medio de este conjunto de número que podemos acceder e interactuar con las dichas páginas, este código nos brinda información como por ejemplo de donde es la página que estamos visitando, entre muchos otros datos útiles
+4:Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+Para que la música de un servidor de spotify pueda llegar a tu teléfono , es necesario que sea cortado en paquetes , en los cuales se almacenan en paquetes que posteriormente serán enviados en distintos caminos por medio de router hasta llegar a tu teléfono, es en ese momento en el cual el TCP se asegura de que todos los paquetes lleguen y posteriormente los organiza para así poder reproducir la música ,en caso de que algún paquete falte , se le solicita al servidor que mande nuevamente los paquetes , después el TCP checa que llegaron y así completa la información.  
